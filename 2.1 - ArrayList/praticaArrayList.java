@@ -10,5 +10,12 @@ public class praticaArrayList {
         for (String nome : nomes){
             System.out.println(nome);
         }
+
+        System.out.println();
+        nomes.remove(2);
+
+        for (String nome : nomes){
+            System.out.println(nome);
+        }
     }
 }
