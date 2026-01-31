@@ -1,7 +1,7 @@
 public class Pista {
     public static void main (String[] args){
         Carro novoCarro = new Carro("BMW");
-        novoCarro.Acelerar();
+        novoCarro.acelerar();
     }
 }
 
@@ -12,7 +12,7 @@ class Carro {
         this.modelo = modelo;
     }
 
-    public void Acelerar(){
+    public void acelerar(){
         System.out.println("Acelerando o carro " + this.modelo);
     }
 }
