@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/2.1 - ArrayList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.2 - Classes and Objects 2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.3 - Interfaces e Classes Abstratas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.4 - Teste" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.4 - Estrutura de Dados" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
